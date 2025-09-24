@@ -127,7 +127,7 @@ export default function Home() {
         >
           <span className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-[#00FF7C]/10 to-[#007755]/10 border border-[#00FF7C]/20 rounded-full text-[#007755] text-sm font-medium m-6 backdrop-blur-sm">
             <Sparkles className="w-4 h-4 mr-2" />
-            finhelp – Clarity that Builds Prosperity.
+            finHelp – Clarity that Builds Prosperity.
           </span>
 
           <h1 className="text-6xl md:text-7xl font-extrabold mb-6 leading-tight tracking-tight">

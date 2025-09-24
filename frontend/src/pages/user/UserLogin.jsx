@@ -75,7 +75,7 @@ export default function UserLogin() {
         </h1>
         <p className="text-center text-gray-600 mb-8">
           Login to{" "}
-          <span className="text-[#00b76c] font-semibold">finhelp</span>
+          <span className="text-[#00b76c] font-semibold">finHelp</span>
         </p>
 
         {/* Form */}

@@ -42,11 +42,11 @@ export default function About() {
           </h1>
           <p className="text-lg md:text-xl max-w-2xl mx-auto mb-6">
             <span className="text-[#007755] font-semibold">
-              finhelp – From Curious Minds to Clear Futures
+              finHelp – From Curious Minds to Clear Futures
             </span>
           </p>
           <p className="text-sm md:text-base max-w-3xl mx-auto text-[#2F3E46]">
-            finhelp is designed to make finance simple, modern, and accessible. Through clear guides, practical tools, and a supportive community, we help learners gain confidence in managing their money effectively.
+            finHelp is designed to make finance simple, modern, and accessible. Through clear guides, practical tools, and a supportive community, we help learners gain confidence in managing their money effectively.
           </p>
         </motion.section>
 

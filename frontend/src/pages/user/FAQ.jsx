@@ -7,23 +7,23 @@ export default function FAQ() {
     {
       title: "Platform Related",
       faqs: [
-        { q: "What is finhelp?", a: "finhelp is a modern finance learning platform designed to simplify complex financial concepts into clear, actionable knowledge for everyone." },
-        { q: "Is finhelp free to use?", a: "Yes, finhelp offers free access to many courses, blogs, and notes. Some advanced or premium content may require an upgrade." },
-        { q: "Who can use finhelp?", a: "Anyone interested in finance—from beginners, students, professionals, to entrepreneurs—can use finhelp to gain clarity in finance." },
-        { q: "Do I need prior knowledge of finance?", a: "No. finhelp is structured from the basics to advanced topics so even beginners can learn with ease." },
+        { q: "What is finHelp?", a: "finHelp is a modern finance learning platform designed to simplify complex financial concepts into clear, actionable knowledge for everyone." },
+        { q: "Is finHelp free to use?", a: "Yes, finHelp offers free access to many courses, blogs, and notes. Some advanced or premium content may require an upgrade." },
+        { q: "Who can use finHelp?", a: "Anyone interested in finance—from beginners, students, professionals, to entrepreneurs—can use finHelp to gain clarity in finance." },
+        { q: "Do I need prior knowledge of finance?", a: "No. finHelp is structured from the basics to advanced topics so even beginners can learn with ease." },
         { q: "Do I get certificates after completing a course?", a: "Yes, after completing specific courses and quizzes, you’ll receive a verifiable digital certificate." },
         { q: "How can I track my progress?", a: "Your progress is saved in the 'My Activity' section where you can see completed lessons, quizzes, and achievements." },
-        { q: "Can I access finhelp on mobile?", a: "Yes, finhelp is fully responsive and works seamlessly on desktops, tablets, and mobile devices." },
-        { q: "Does finhelp support offline learning?", a: "Currently, finhelp is online-only. However, we are working on downloadable notes for offline access." },
+        { q: "Can I access finHelp on mobile?", a: "Yes, finHelp is fully responsive and works seamlessly on desktops, tablets, and mobile devices." },
+        { q: "Does finHelp support offline learning?", a: "Currently, finHelp is online-only. However, we are working on downloadable notes for offline access." },
         { q: "How can I give feedback?", a: "You can share feedback via the 'Help & Support' section in your profile or through our contact form." }
       ]
     },
     {
       title: "Learning & Courses",
       faqs: [
-        { q: "What topics are covered in finhelp?", a: "We cover personal finance, investing, budgeting, banking, digital payments, stock markets, mutual funds, cryptocurrency, and more." },
+        { q: "What topics are covered in finHelp?", a: "We cover personal finance, investing, budgeting, banking, digital payments, stock markets, mutual funds, cryptocurrency, and more." },
         { q: "Are the courses beginner-friendly?", a: "Yes, courses are structured from fundamentals to advanced levels, making them beginner-friendly." },
-        { q: "Do you provide video lectures?", a: "Currently, finhelp is focused on text-based interactive content, notes, and quizzes. Videos may be added later." },
+        { q: "Do you provide video lectures?", a: "Currently, finHelp is focused on text-based interactive content, notes, and quizzes. Videos may be added later." },
         { q: "Can I suggest a topic for future courses?", a: "Yes! You can suggest new topics via the feedback section and our team will consider them for upcoming modules." },
         { q: "How are quizzes structured?", a: "Quizzes are multiple-choice and designed to reinforce your understanding after each topic." },
         { q: "Do quizzes affect my certification?", a: "Yes, scoring above a certain threshold is required to unlock your course completion certificate." },
@@ -33,18 +33,18 @@ export default function FAQ() {
     {
       title: "Community",
       faqs: [
-        { q: "Does finhelp have a community?", a: "Yes, you can engage with peers through comments, discussions, and shared insights on blogs and articles." },
-        { q: "Can I write blogs on finhelp?", a: "Yes, registered users can contribute articles and insights after review by our content team." },
+        { q: "Does finHelp have a community?", a: "Yes, you can engage with peers through comments, discussions, and shared insights on blogs and articles." },
+        { q: "Can I write blogs on finHelp?", a: "Yes, registered users can contribute articles and insights after review by our content team." },
         { q: "Can I collaborate with other learners?", a: "Yes, you can connect with peers, comment on posts, and share resources within the platform." }
       ]
     },
     {
       title: "Security & Account",
       faqs: [
-        { q: "Is my data safe with finhelp?", a: "Yes, we use modern encryption and secure practices to keep your data safe." },
+        { q: "Is my data safe with finHelp?", a: "Yes, we use modern encryption and secure practices to keep your data safe." },
         { q: "Can I reset my password?", a: "Yes, use the 'Forgot Password' option on the login page to reset your password securely." },
         { q: "Can I delete my account?", a: "Yes, you can request account deletion from your profile settings. All your data will be removed permanently." },
-        { q: "Can I use finhelp without signing up?", a: "You can browse some free resources without signing up, but progress tracking and certifications require an account." }
+        { q: "Can I use finHelp without signing up?", a: "You can browse some free resources without signing up, but progress tracking and certifications require an account." }
       ]
     },
     {
@@ -59,9 +59,9 @@ export default function FAQ() {
     {
       title: "Miscellaneous",
       faqs: [
-        { q: "How does finhelp stand out from other finance platforms?", a: "finhelp focuses on clarity, simplicity, and real-world application with a learner-first approach rather than overwhelming technical jargon." },
-        { q: "Can I use finhelp for exam preparation?", a: "Yes, finhelp’s structured notes and quizzes are great for preparing for competitive exams and finance certifications." },
-        { q: "What’s the vision of finhelp?", a: "Our vision is simple: 'From Curious Minds to Clear Futures' — making finance knowledge accessible, practical, and inspiring." }
+        { q: "How does finHelp stand out from other finance platforms?", a: "finHelp  focuses on clarity, simplicity, and real-world application with a learner-first approach rather than overwhelming technical jargon." },
+        { q: "Can I use finHelp for exam preparation?", a: "Yes, finHelp’s structured notes and quizzes are great for preparing for competitive exams and finance certifications." },
+        { q: "What’s the vision of finHelp?", a: "Our vision is simple: 'From Curious Minds to Clear Futures' — making finance knowledge accessible, practical, and inspiring." }
       ]
     }
   ];

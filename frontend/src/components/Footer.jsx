@@ -84,7 +84,7 @@ export default function Footer() {
       {/* Tagline */}
       <div className="text-center mt-10">
         <p className="text-[#F4FF00] text-sm italic font-medium">
-          “finhelp – Learn with Clarity, Live with Prosperity.”
+          “finHelp – Learn with Clarity, Live with Prosperity.”
         </p>
       </div>
 

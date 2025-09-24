@@ -60,7 +60,7 @@ export default function Navbar() {
           to="/"
           className="text-2xl font-bold tracking-tight text-[#00FF7C]"
         >
-          finhelp 
+          finHelp 
         </Link>
 
         {/* Desktop Nav */}

@@ -95,7 +95,7 @@ export default function UserSignup() {
           Create New Account
         </h1>
         <p className="text-center text-gray-600 mb-8">
-          Join <span className="text-[#00b76c] font-semibold">finhelp</span>
+          Join <span className="text-[#00b76c] font-semibold">finHelp</span>
         </p>
 
         {/* Form */}
