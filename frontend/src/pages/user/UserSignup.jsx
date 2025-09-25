@@ -181,7 +181,7 @@ export default function UserSignup() {
           {/* Google Button */}
           <button
             onClick={() => {
-              window.location.href = "http://localhost:5000/auth/google";
+              window.location.href = "https://finhelp-backend-xrbc.onrender.com/auth/google/callback";
             }}
             type="button"
             className="w-full flex items-center justify-center gap-2 bg-white border border-gray-300 text-gray-700 font-medium py-3 rounded-xl shadow-md hover:bg-gray-50 transition"

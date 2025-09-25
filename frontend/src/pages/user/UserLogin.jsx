@@ -54,7 +54,7 @@ export default function UserLogin() {
 
   // Google Login handler
   const handleGoogleLogin = () => {
-    window.location.href = "http://localhost:5000/auth/google"; 
+    window.location.href = "https://finhelp-backend-xrbc.onrender.com/auth/google/callback"; 
     // 👆 Backend server ka URL (yaha Google auth start hoga)
   };
 

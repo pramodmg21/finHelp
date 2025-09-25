@@ -20,7 +20,7 @@ function RoadmapPage() {
   useEffect(() => {
     const fetchRoadmaps = async () => {
       try {
-        const res = await fetch("http://localhost:5000/api/roadmaps");
+        const res = await fetch("https://finhelp-backend-xrbc.onrender.com/api/roadmaps");
         const data = await res.json();
         setRoadmaps(data);
         if (data.length > 0) setSelected(data[0]);

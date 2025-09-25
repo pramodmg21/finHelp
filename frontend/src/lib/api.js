@@ -3,7 +3,7 @@ import axios from "axios";
 
 // 1. API instance banaya base URL ke sath
 const api = axios.create({
-  baseURL: "http://localhost:5000", // env file me set hoga
+  baseURL: "https://finhelp-backend-xrbc.onrender.com/", // env file me set hoga
 });
 
 // 2. Request ke time agar token mila toh headers me chipka diya

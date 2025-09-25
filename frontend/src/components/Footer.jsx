@@ -95,7 +95,7 @@ export default function Footer() {
       </div>
 
       <div className="text-center text-9xl font-extrabold mt-10 finhelp-footer">
-        finhelp
+        finHelp
       </div>
     </footer>
   );
