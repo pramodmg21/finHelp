@@ -1,4 +1,4 @@
-const { build } = require('vite');
+import { build } from 'vite';
 
 build({
   configFile: './vite.config.js'
